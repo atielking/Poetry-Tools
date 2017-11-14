@@ -32,6 +32,7 @@ POSSIBLE_RHYMES = {
     'rondeau rhyme': 'aabbaaabCaabbaC',
     'shakespearean sonnet': 'ababcdcdefefgg',
     'limerick': 'aabba',
+    'seuss': 'XaXa XbXb XcXc',
     'no rhyme': 'XXXX'
 }
 
